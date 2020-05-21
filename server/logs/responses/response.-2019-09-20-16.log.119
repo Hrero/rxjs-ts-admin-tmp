@@ -1,0 +1,26 @@
+[2019-09-20T16:34:26.467] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 6
+response status: 200
+response body: 
+{"data":""}
+*************** response log end ***************
+
+[2019-09-20T16:34:26.560] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/pcmall/user/authInfo
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"platform":"weChat","openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4","nickName":"A sunny","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoy75TtszB6cT9a6T5hY7EpkAGwlqImKTfBIGbTXsv36nqnJxQXAV8RZjzX0tGqxKaVr7NFOsv5JQ/132"}
+response time: 5
+response status: 200
+response body: 
+{"code":11000,"data":"","msg":"E11000 duplicate key error collection: second_hand_express_transaction.users index: studentNumber_1 dup key: { : null }"}
+*************** response log end ***************
+

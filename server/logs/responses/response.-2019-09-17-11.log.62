@@ -1,0 +1,39 @@
+[2019-09-17T11:48:48.244] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getEverybodySearching
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 12
+response status: 200
+response body: 
+{"code":1,"data":{"userHistorySearch":[],"searchArrayList":[]},"msg":"success"}
+*************** response log end ***************
+
+[2019-09-17T11:48:48.247] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getCommodityList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"type":0,"pageSize":5,"pageNum":1}
+response time: 11
+response status: 200
+response body: 
+{"code":1,"data":{"data":[],"total":0},"msg":"success"}
+*************** response log end ***************
+
+[2019-09-17T11:48:51.148] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 4
+response status: 200
+response body: 
+{"code":1,"data":{"sex":0,"attentionNum":0,"fansNum":0,"isFans":0,"creatTime":1568691404327,"updataTime":1568691404327,"_id":"5d80579f8d50e530e10964cc","openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4","__v":0,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODA1NzlmOGQ1MGU1MzBlMTA5NjRjYyIsImlhdCI6MTU2ODY5MjEyNywiZXhwIjoxNTY5OTg4MTI3fQ.7EJB2GoEkmFwlKam6l7nFE7ZQdFAhEhMJOQcmN_KXes","message":0},"msg":"success"}
+*************** response log end ***************
+

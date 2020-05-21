@@ -1,0 +1,39 @@
+[2019-09-17T11:43:15.075] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 0
+response status: 200
+response body: 
+{"code":0,"data":{},"msg":"请先登录"}
+*************** response log end ***************
+
+[2019-09-17T11:43:15.134] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/xcx/weChat/thirdLoginIn
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 6
+response status: 200
+response body: 
+{"code":1,"data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODA1NjUzOGQ1MGU1MzBlMTA5NjRjYSIsImlhdCI6MTU2ODY5MTc5NSwiZXhwIjoxNTY5OTg3Nzk1fQ.BbA92Jzq7xolknvgkIR-oKDVvOvaLx-VFQJopY3U_gg","userId":"5d8056538d50e530e10964ca"},"msg":"绑定成功"}
+*************** response log end ***************
+
+[2019-09-17T11:43:15.173] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 0
+response status: 200
+response body: 
+{"code":0,"data":{},"msg":"请先登录"}
+*************** response log end ***************
+

@@ -1,0 +1,39 @@
+[2019-09-17T11:43:15.038] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 1
+response status: 200
+response body: 
+{"code":0,"data":{},"msg":"请先登录"}
+*************** response log end ***************
+
+[2019-09-17T11:43:15.039] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getCommodityList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"type":0,"pageSize":5,"pageNum":1}
+response time: 0
+response status: 200
+response body: 
+{"code":0,"data":{},"msg":"请先登录"}
+*************** response log end ***************
+
+[2019-09-17T11:43:15.066] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/xcx/weChat/getWeChatId
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"appid":"wx5aaaec189466b376","secret":"5f25cab72ad17562a5cd14cdaa18aa47","js_code":"071p2x6D0lRAgl2uX99D0SEC6D0p2x6-","grant_type":"authorization_code"}
+response time: 121
+response status: 200
+response body: 
+{"session_key":"FgVUzRpb58P5tLYf0HAGvw==","openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+*************** response log end ***************
+

@@ -1,0 +1,26 @@
+[2019-09-17T11:48:10.609] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/pcmall/user/authInfo
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"platform":"weChat","openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4","nickName":"A sunny","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoy75TtszB6cT9a6T5hY7EpkAGwlqImKTfBIGbTXsv36nqnJxQXAV8RZjzX0tGqxKaVr7NFOsv5JQ/132"}
+response time: 1
+response status: 200
+response body: 
+{"code":1,"data":{"platform":"weChat","openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4","nickName":"A sunny","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoy75TtszB6cT9a6T5hY7EpkAGwlqImKTfBIGbTXsv36nqnJxQXAV8RZjzX0tGqxKaVr7NFOsv5JQ/132","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODA1NzcxOGQ1MGU1MzBlMTA5NjRjYiIsImlhdCI6MTU2ODY5MjA4MSwiZXhwIjoxNTY5OTg4MDgxfQ.fpGVEO0M3OUVZ3e_ybm5dDSISGfCGZUk8jLwGknnSLE"},"msg":"已更新"}
+*************** response log end ***************
+
+[2019-09-17T11:48:12.702] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/xcx/weChat/getUnionId
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"appId":"wx5aaaec189466b376","sessionKey":"/D3Kg9g0wDk7Er76ppIPgA==","encryptedData":"KrxBNcb4pH0sH8cF614r8km4MzL/wE+6odHc7vyYQJqAW80r5QE/q7xcWM8C1rRjGg4EHMf6LqRwn813OpG9EUevztQLdzBljOlvNwXcmJtTik0hW5J/ev5Qv4LhTLZ82O5x0Jxqd4FEWkQAWJkCNfvDpnvvtMABLxzJFgmih1sNeTOw3BnxYitaPHgNBQTNlCeW1ENW94akzGRyIEa05VFVF77RykLhzkFNAI3wL5MgqExUf5ivW1cpIJQobPzFk8EyjsNIs5BepMS1IP+vAPE56psGM2mgApAIVzelK11jCYibQJhV8eeO70YfvpwPQ6O1+ms9q5GcR4XF7iQvUTflkAnMSa9we7OkBa6epnTUu7OHV1tezG3S6jTfaUqaphYr74Qu5hDJ9imOAl+xM8uEhmkhPOw9nlYPDIFzNyf8eLKmO/sIiUpHEfu9j6dk2j1BpKh87eCOzzzgILbauw==","iv":"mZ+5bpce79WWPWg/+TTxiw=="}
+response time: 0
+response status: 200
+response body: 
+{"openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4","nickName":"A sunny","gender":1,"language":"zh_CN","city":"","province":"Ras Al Khaimah","country":"AE","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoy75TtszB6cT9a6T5hY7EpkAGwlqImKTfBIGbTXsv36nqnJxQXAV8RZjzX0tGqxKaVr7NFOsv5JQ/132","watermark":{"timestamp":1568692092,"appid":"wx5aaaec189466b376"}}
+*************** response log end ***************
+

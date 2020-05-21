@@ -1,0 +1,26 @@
+[2019-09-20T15:55:27.320] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getEverybodySearching
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 13
+response status: 200
+response body: 
+{"code":1,"data":{"userHistorySearch":[],"searchArrayList":[{"text":"啦啦","count":1}]},"msg":"success"}
+*************** response log end ***************
+
+[2019-09-20T15:55:27.341] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getCommodityList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"type":0,"pageSize":5,"pageNum":1}
+response time: 45
+response status: 200
+response body: 
+{"code":1,"data":{"data":[{"collect":0,"transmit":0,"like":0,"ourRatings":0,"isCollect":0,"isLike":0,"firstImgHeight":327,"firstImgWidth":465,"imgMaxHeight":{"width":465,"height":327,"size":1.4220183486238531},"status":0,"creatTime":1568691404327,"updataTime":1568691404327,"_id":"5d8057c68d50e530e10964cd","productDes":"a生成","imageUrl":[{"height":327,"width":465,"path":"https://static2.zugeliang01.com/20190917/1ccc3ab0-d8fe-11e9-8ba8-873c6029de18.jpg"}],"phoneNumber":0,"school":"清华大学","type":10,"userId":"5d80579f8d50e530e10964cc","dep":null,"__v":0}],"total":1},"msg":"success"}
+*************** response log end ***************
+

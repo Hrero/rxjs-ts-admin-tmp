@@ -1,0 +1,26 @@
+[2019-09-20T16:33:55.743] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 5
+response status: 200
+response body: 
+{"data":""}
+*************** response log end ***************
+
+[2019-09-20T16:33:55.836] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 8
+response status: 200
+response body: 
+{"code":1,"data":{"sex":0,"attentionNum":0,"fansNum":0,"isFans":0,"creatTime":1568968288883,"updataTime":1568968288883,"_id":"5d848ef39eefdad780ed01d5","openId":"onioU0b7U6Qik1N-MgHeeaS_ijTY","studentNumber":null,"phoneNumber":null,"nickName":null,"__v":0,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODQ4ZWYzOWVlZmRhZDc4MGVkMDFkNSIsImlhdCI6MTU2ODk2ODQzNSwiZXhwIjoxNTcwMjY0NDM1fQ.TiaFcr5Z8J5PVVkdbTGM3y0mssvMDA2k-8897K42oZU","message":0},"msg":"success"}
+*************** response log end ***************
+

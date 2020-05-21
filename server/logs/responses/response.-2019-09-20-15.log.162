@@ -1,0 +1,26 @@
+[2019-09-20T15:48:05.378] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/xcx/weChat/thirdLoginIn
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 4
+response status: 200
+response body: 
+{"code":0,"data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODQ4NDFlYTA3Yjc4ZDM5ZDFjZGI2MyIsImlhdCI6MTU2ODk2NTY4NSwiZXhwIjoxNTcwMjYxNjg1fQ._oPaHWmYAyRjJPvuziETP6VS5MEIpaRblKLNFYAr0iI","userId":"5d84841ea07b78d39d1cdb63"},"msg":"该用户已存在"}
+*************** response log end ***************
+
+[2019-09-20T15:48:11.020] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 0
+response status: 200
+response body: 
+{"code":0,"data":{},"msg":"请先登录"}
+*************** response log end ***************
+

@@ -1,0 +1,26 @@
+[2019-09-20T16:33:22.084] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/pcmall/user/authInfo
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"platform":"weChat","openId":"onioU0b7U6Qik1N-MgHeeaS_ijTY","nickName":"@小月","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83er1cIfzPldahjJaNFkgjWSkfFy4jHGXWwBwvJKIeFOrkzl2hNv07OO4iccphJalKDa8oCQWUPJwThg/132"}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"data":{"platform":"weChat","openId":"onioU0b7U6Qik1N-MgHeeaS_ijTY","nickName":"@小月","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83er1cIfzPldahjJaNFkgjWSkfFy4jHGXWwBwvJKIeFOrkzl2hNv07OO4iccphJalKDa8oCQWUPJwThg/132","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODQ4ZTdiOWVlZmRhZDc4MGVkMDFkNCIsImlhdCI6MTU2ODk2ODQwMSwiZXhwIjoxNTcwMjY0NDAxfQ.nTMJlaIrANKNtmAUs2JPc6VEb31PZBGWmrfI1Wigf1E"},"msg":"已更新"}
+*************** response log end ***************
+
+[2019-09-20T16:33:55.619] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/xcx/weChat/getWeChatId
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"appid":"wx5aaaec189466b376","secret":"5f25cab72ad17562a5cd14cdaa18aa47","js_code":"011fapM21OtD9Q15xzL21wXuM21fapMA","grant_type":"authorization_code"}
+response time: 122
+response status: 200
+response body: 
+{"session_key":"E3mIrFzcvX5nkxUdBJLRYg==","openid":"onioU0b7U6Qik1N-MgHeeaS_ijTY"}
+*************** response log end ***************
+

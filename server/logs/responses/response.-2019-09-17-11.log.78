@@ -1,0 +1,39 @@
+[2019-09-17T11:48:02.146] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getEverybodySearching
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 13
+response status: 200
+response body: 
+{"code":1,"data":{"userHistorySearch":[],"searchArrayList":[]},"msg":"success"}
+*************** response log end ***************
+
+[2019-09-17T11:48:02.147] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getCommodityList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"type":0,"pageSize":5,"pageNum":1}
+response time: 5
+response status: 200
+response body: 
+{"code":1,"data":{"data":[],"total":0},"msg":"success"}
+*************** response log end ***************
+
+[2019-09-17T11:48:04.746] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserCommodityList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 4
+response status: 200
+response body: 
+{"code":1,"data":[],"msg":"success"}
+*************** response log end ***************
+

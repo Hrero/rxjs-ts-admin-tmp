@@ -1,0 +1,39 @@
+[2019-09-19T23:57:34.148] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.100
+request body: 
+{}
+response time: 0
+response status: 200
+response body: 
+{"code":0,"data":{},"msg":"请先登录"}
+*************** response log end ***************
+
+[2019-09-19T23:57:34.259] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/xcx/weChat/thirdLoginIn
+request client ip:  ::ffff:192.168.0.100
+request body: 
+{"openId":"onioU0b7U6Qik1N-MgHeeaS_ijTY"}
+response time: 122
+response status: 200
+response body: 
+{"code":11000,"data":"","msg":"E11000 duplicate key error collection: second_hand_express_transaction.users index: studentNumber_1 dup key: { : null }"}
+*************** response log end ***************
+
+[2019-09-19T23:57:34.264] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.100
+request body: 
+{}
+response time: 0
+response status: 200
+response body: 
+{"code":0,"data":{},"msg":"请先登录"}
+*************** response log end ***************
+

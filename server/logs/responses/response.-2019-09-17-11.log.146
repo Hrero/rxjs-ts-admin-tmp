@@ -1,0 +1,26 @@
+[2019-09-17T11:40:32.809] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/xcx/weChat/getWeChatId
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"appid":"wx5aaaec189466b376","secret":"5f25cab72ad17562a5cd14cdaa18aa47","js_code":"071LZqaV0L5QZ228C08V0bCbaV0LZqaN","grant_type":"authorization_code"}
+response time: 134
+response status: 200
+response body: 
+{"session_key":"r3EKc24JJk21zHzQGGXCKQ==","openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+*************** response log end ***************
+
+[2019-09-17T11:40:32.872] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/xcx/weChat/thirdLoginIn
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 3
+response status: 200
+response body: 
+{"code":0,"data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODA1MzdkNGViNTczMmZhZTMxMDM1YSIsImlhdCI6MTU2ODY5MTYzMiwiZXhwIjoxNTY5OTg3NjMyfQ.e6WLw4JN_Ln3lsPe2H2S8CpyFI8woLT_xci2w1lwinA","userId":"5d80537d4eb5732fae31035a"},"msg":"该用户已存在"}
+*************** response log end ***************
+

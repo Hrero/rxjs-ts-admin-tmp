@@ -1,0 +1,12 @@
+[2019-09-24T15:46:49.605] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/xcx/weChat/sign?url=/
+request client ip:  ::ffff:127.0.0.1
+request query:  {"url":"/"}
+response time: 2
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+

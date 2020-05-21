@@ -1,0 +1,26 @@
+[2019-09-17T11:43:15.347] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 4
+response status: 200
+response body: 
+{"code":1,"data":{"sex":0,"attentionNum":0,"fansNum":0,"isFans":0,"creatTime":1568691404327,"updataTime":1568691404327,"_id":"5d8056538d50e530e10964ca","openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4","__v":0,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODA1NjUzOGQ1MGU1MzBlMTA5NjRjYSIsImlhdCI6MTU2ODY5MTc5NSwiZXhwIjoxNTY5OTg3Nzk1fQ.BbA92Jzq7xolknvgkIR-oKDVvOvaLx-VFQJopY3U_gg","message":0},"msg":"success"}
+*************** response log end ***************
+
+[2019-09-17T11:43:15.403] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getEverybodySearching
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 5
+response status: 200
+response body: 
+{"code":1,"data":{"userHistorySearch":[],"searchArrayList":[]},"msg":"success"}
+*************** response log end ***************
+

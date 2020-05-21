@@ -1,0 +1,26 @@
+[2019-09-20T15:54:53.781] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/xcx/weChat/getWeChatId
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"appid":"wx5aaaec189466b376","secret":"5f25cab72ad17562a5cd14cdaa18aa47","js_code":"061dhHOZ1iKN6T02x8OZ1zlLOZ1dhHOi","grant_type":"authorization_code"}
+response time: 99
+response status: 200
+response body: 
+{"session_key":"GopDPyLKvqkGuSznAMwaXw==","openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+*************** response log end ***************
+
+[2019-09-20T15:54:54.085] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getEverybodySearching
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 67
+response status: 200
+response body: 
+{"code":1,"data":{"userHistorySearch":[],"searchArrayList":[{"text":"啦啦","count":1}]},"msg":"success"}
+*************** response log end ***************
+

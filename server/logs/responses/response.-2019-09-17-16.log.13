@@ -1,0 +1,26 @@
+[2019-09-17T16:34:32.030] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 15
+response status: 200
+response body: 
+{"code":1,"data":{"sex":0,"attentionNum":0,"fansNum":0,"isFans":0,"creatTime":1568691404327,"updataTime":1568691404327,"_id":"5d80589a8d50e530e10964d1","openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4","__v":0,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODA1ODlhOGQ1MGU1MzBlMTA5NjRkMSIsImlhdCI6MTU2ODcwOTI3MSwiZXhwIjoxNTcwMDA1MjcxfQ.4bfekCM9QRrOvuUqmwLeclkxbm3zH3eiZ37HZQPKmqE","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoy75TtszB6cT9a6T5hY7EpkAGwlqImKTfBIGbTXsv36nqnJxQXAV8RZjzX0tGqxKaVr7NFOsv5JQ/132","nickName":"A sunny","message":0},"msg":"success"}
+*************** response log end ***************
+
+[2019-09-17T16:34:32.034] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getCommodityList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"type":0,"pageSize":5,"pageNum":1}
+response time: 2
+response status: 200
+response body: 
+{"code":0,"data":{},"msg":{}}
+*************** response log end ***************
+

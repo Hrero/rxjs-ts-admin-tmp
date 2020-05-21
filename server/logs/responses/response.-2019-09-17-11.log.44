@@ -1,0 +1,26 @@
+[2019-09-17T11:49:53.949] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"keyword":"大朗"}
+response time: 5
+response status: 200
+response body: 
+{"code":1,"data":{"data":[],"total":1},"msg":"success"}
+*************** response log end ***************
+
+[2019-09-17T11:50:05.660] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getCommodityList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"type":0,"pageSize":5,"pageNum":1}
+response time: 7
+response status: 200
+response body: 
+{"code":1,"data":{"data":[{"collect":0,"transmit":0,"like":0,"ourRatings":0,"isCollect":0,"isLike":0,"firstImgHeight":327,"firstImgWidth":465,"imgMaxHeight":{"width":465,"height":327,"size":1.4220183486238531},"status":0,"creatTime":1568691404327,"updataTime":1568691404327,"_id":"5d8057c68d50e530e10964cd","productDes":"a生成","imageUrl":[{"height":327,"width":465,"path":"https://static2.zugeliang01.com/20190917/1ccc3ab0-d8fe-11e9-8ba8-873c6029de18.jpg"}],"phoneNumber":0,"school":"清华大学","type":10,"userId":"5d80579f8d50e530e10964cc","dep":{"sex":0,"attentionNum":0,"fansNum":0,"isFans":"","creatTime":1568691404327,"updataTime":1568691404327,"_id":"5d80579f8d50e530e10964cc","openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4","__v":0,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODA1NzlmOGQ1MGU1MzBlMTA5NjRjYyIsImlhdCI6MTU2ODY5MjE3NSwiZXhwIjoxNTY5OTg4MTc1fQ.MrmkqZ25dB8wQotnsWZwtCMV6sBVFUMKzHtgidWI5Mg","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoy75TtszB6cT9a6T5hY7EpkAGwlqImKTfBIGbTXsv36nqnJxQXAV8RZjzX0tGqxKaVr7NFOsv5JQ/132","nickName":"A sunny"},"__v":0}],"total":1},"msg":"success"}
+*************** response log end ***************
+

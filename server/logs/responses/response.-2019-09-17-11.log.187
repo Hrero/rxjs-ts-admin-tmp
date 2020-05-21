@@ -1,0 +1,26 @@
+[2019-09-17T11:37:30.751] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/userUpdate
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"studentNumber":"11100"}
+response time: 6
+response status: 200
+response body: 
+{"code":1,"data":{"n":1,"nModified":1,"ok":1,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODA1MzdkNGViNTczMmZhZTMxMDM1YSIsImlhdCI6MTU2ODY5MTQxOSwiZXhwIjoxNTY5OTg3NDE5fQ.roYMbJJkS8ZXDGYL8EP39riD4Ml9xKPNTlgnK6UQ4Fw"},"msg":"已更新"}
+*************** response log end ***************
+
+[2019-09-17T11:37:37.256] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/userUpdate
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"phoneNumber":"18618494521"}
+response time: 4
+response status: 200
+response body: 
+{"code":1,"data":{"n":1,"nModified":1,"ok":1,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODA1MzdkNGViNTczMmZhZTMxMDM1YSIsImlhdCI6MTU2ODY5MTQxOSwiZXhwIjoxNTY5OTg3NDE5fQ.roYMbJJkS8ZXDGYL8EP39riD4Ml9xKPNTlgnK6UQ4Fw"},"msg":"已更新"}
+*************** response log end ***************
+

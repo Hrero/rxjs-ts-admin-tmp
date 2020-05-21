@@ -1,0 +1,26 @@
+[2019-09-20T16:31:55.550] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getCommodityList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"type":0,"pageSize":5,"pageNum":1}
+response time: 2
+response status: 200
+response body: 
+{"code":0,"data":{},"msg":{}}
+*************** response log end ***************
+
+[2019-09-20T16:31:55.722] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/getCommodityTypeList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 14
+response status: 200
+response body: 
+{"code":1,"data":[{"creatTime":1562166022048,"updataTime":1562166022048,"_id":"5d1e12b11164903bc9537a78","value":0,"text":"推荐","sort":0,"__v":0},{"creatTime":1562054859042,"updataTime":1562054859042,"_id":"5d1b114cc591511dfe033097","value":1,"text":"生活","sort":1,"__v":0},{"creatTime":1562054859042,"updataTime":1562054859042,"_id":"5d1b1154c591511dfe033098","value":2,"text":"图书","sort":2,"__v":0},{"creatTime":1562054859042,"updataTime":1562054859042,"_id":"5d1b116fc591511dfe033099","value":3,"text":"外设","sort":3,"__v":0},{"creatTime":1562054859042,"updataTime":1562054859042,"_id":"5d1b1181c591511dfe03309a","value":4,"text":"文娱","sort":4,"__v":0},{"creatTime":1562054859042,"updataTime":1562054859042,"_id":"5d1b118cc591511dfe03309b","value":5,"text":"护肤","sort":5,"__v":0},{"creatTime":1562054859042,"updataTime":1562054859042,"_id":"5d1b1193c591511dfe03309c","value":6,"text":"交通","sort":6,"__v":0},{"creatTime":1562054859042,"updataTime":1562054859042,"_id":"5d1b11f2c591511dfe03309d","value":7,"text":"摄影","sort":7,"__v":0},{"creatTime":1562054859042,"updataTime":1562054859042,"_id":"5d1b11f9c591511dfe03309e","value":8,"text":"运动","sort":8,"__v":0}],"msg":"success"}
+*************** response log end ***************
+

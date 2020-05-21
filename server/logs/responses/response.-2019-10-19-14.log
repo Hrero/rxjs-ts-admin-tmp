@@ -1,0 +1,26 @@
+[2019-10-19T14:09:50.884] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  //login/account?_allow_anonymous=true
+request client ip:  ::1
+request body: 
+{"type":0,"userName":"admin","password":"asd"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2019-10-19T14:10:01.008] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  //login/account?_allow_anonymous=true
+request client ip:  ::1
+request body: 
+{"type":0,"userName":"admin","password":"asd"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+

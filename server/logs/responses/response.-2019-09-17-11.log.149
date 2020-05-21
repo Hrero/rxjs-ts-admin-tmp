@@ -1,0 +1,13 @@
+[2019-09-17T11:40:32.022] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 3
+response status: 200
+response body: 
+{"code":1,"data":{"sex":0,"attentionNum":0,"fansNum":0,"isFans":0,"creatTime":1568689982186,"updataTime":1568689982186,"_id":"5d80537d4eb5732fae31035a","openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4","__v":0,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODA1MzdkNGViNTczMmZhZTMxMDM1YSIsImlhdCI6MTU2ODY5MTU5OSwiZXhwIjoxNTY5OTg3NTk5fQ.73v9mp4RveXKX-RA35voqrUotuCjN5ECcAjPBj_LFlo","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoy75TtszB6cT9a6T5hY7EpkAGwlqImKTfBIGbTXsv36nqnJxQXAV8RZjzX0tGqxKaVr7NFOsv5JQ/132","nickName":"A sunny","studentNumber":11100,"phoneNumber":18618494521,"name":"郝增润","signature":"心无旁骛","school":"黑龙江八一农垦大学","message":0},"msg":"success"}
+*************** response log end ***************
+

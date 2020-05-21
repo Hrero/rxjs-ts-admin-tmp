@@ -1,0 +1,39 @@
+[2019-09-17T11:49:48.581] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getCommodityList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"pageSize":5,"pageNum":1,"keyword":"大朗"}
+response time: 6
+response status: 200
+response body: 
+{"code":1,"data":{"data":[],"total":1},"msg":"success"}
+*************** response log end ***************
+
+[2019-09-17T11:49:48.598] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"keyword":"大朗"}
+response time: 11
+response status: 200
+response body: 
+{"code":1,"data":{"data":[],"total":1},"msg":"success"}
+*************** response log end ***************
+
+[2019-09-17T11:49:53.938] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getCommodityList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"pageSize":5,"pageNum":1,"keyword":"大朗"}
+response time: 8
+response status: 200
+response body: 
+{"code":1,"data":{"data":[],"total":1},"msg":"success"}
+*************** response log end ***************
+

@@ -1,0 +1,13 @@
+[2019-09-17T11:40:02.312] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserCommodityList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 5
+response status: 200
+response body: 
+{"code":1,"data":[{"collect":0,"transmit":0,"like":0,"ourRatings":0,"isCollect":"","isLike":"","firstImgHeight":327,"firstImgWidth":465,"imgMaxHeight":"{\"width\":465,\"height\":327,\"size\":1.4220183486238531}","status":0,"creatTime":1568691404327,"updataTime":1568691404327,"_id":"5d8054d18d50e530e10964c6","productDes":"正处在","imageUrl":[{"height":327,"width":465,"path":"https://static2.zugeliang01.com/20190917/2b8e8730-d8fc-11e9-bd60-2bfd024d8028.jpg"}],"phoneNumber":0,"school":"清华大学","type":10,"userId":"5d80537d4eb5732fae31035a","dep":{"sex":0,"attentionNum":0,"fansNum":0,"isFans":"","creatTime":1568689982186,"updataTime":1568689982186,"_id":"5d80537d4eb5732fae31035a","openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4","__v":0,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODA1MzdkNGViNTczMmZhZTMxMDM1YSIsImlhdCI6MTU2ODY5MTU5OSwiZXhwIjoxNTY5OTg3NTk5fQ.73v9mp4RveXKX-RA35voqrUotuCjN5ECcAjPBj_LFlo","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoy75TtszB6cT9a6T5hY7EpkAGwlqImKTfBIGbTXsv36nqnJxQXAV8RZjzX0tGqxKaVr7NFOsv5JQ/132","nickName":"A sunny","studentNumber":11100,"phoneNumber":18618494521,"name":"郝增润","signature":"心无旁骛","school":"黑龙江八一农垦大学"},"__v":0},{"collect":0,"transmit":0,"like":0,"ourRatings":0,"isCollect":"","isLike":"","firstImgHeight":670,"firstImgWidth":940,"imgMaxHeight":"{\"width\":940,\"height\":670,\"size\":1.4029850746268657}","status":0,"creatTime":1568691404327,"updataTime":1568691404327,"_id":"5d8055898d50e530e10964c7","productDes":"z'x中心辞职信","imageUrl":[{"height":670,"width":940,"path":"https://static2.zugeliang01.com/20190917/cd688c90-d8fc-11e9-8ba8-873c6029de18.png"}],"phoneNumber":18618494521,"school":"黑龙江八一农垦大学","type":10,"userId":"5d80537d4eb5732fae31035a","dep":{"sex":0,"attentionNum":0,"fansNum":0,"isFans":"","creatTime":1568689982186,"updataTime":1568689982186,"_id":"5d80537d4eb5732fae31035a","openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4","__v":0,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODA1MzdkNGViNTczMmZhZTMxMDM1YSIsImlhdCI6MTU2ODY5MTU5OSwiZXhwIjoxNTY5OTg3NTk5fQ.73v9mp4RveXKX-RA35voqrUotuCjN5ECcAjPBj_LFlo","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoy75TtszB6cT9a6T5hY7EpkAGwlqImKTfBIGbTXsv36nqnJxQXAV8RZjzX0tGqxKaVr7NFOsv5JQ/132","nickName":"A sunny","studentNumber":11100,"phoneNumber":18618494521,"name":"郝增润","signature":"心无旁骛","school":"黑龙江八一农垦大学"},"__v":0}],"msg":"success"}
+*************** response log end ***************
+

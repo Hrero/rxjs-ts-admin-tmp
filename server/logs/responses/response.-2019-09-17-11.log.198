@@ -1,0 +1,26 @@
+[2019-09-17T11:35:23.014] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/saveCommodity
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"imageUrl":"[{\"height\":327,\"width\":465,\"path\":\"https://static2.zugeliang01.com/20190917/2b8e8730-d8fc-11e9-bd60-2bfd024d8028.jpg\"}]","productDes":"正处在","school":"清华大学","type":10,"firstImgHeight":327,"firstImgWidth":465,"imgMaxHeight":"{\"width\":465,\"height\":327,\"size\":1.4220183486238531}"}
+response time: 7
+response status: 200
+response body: 
+{"data":""}
+*************** response log end ***************
+
+[2019-09-17T11:35:42.119] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/saveCommodity
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"imageUrl":"[{\"height\":327,\"width\":465,\"path\":\"https://static2.zugeliang01.com/20190917/2b8e8730-d8fc-11e9-bd60-2bfd024d8028.jpg\"}]","productDes":"正处在","school":"清华大学","type":10,"firstImgHeight":327,"firstImgWidth":465,"imgMaxHeight":"{\"width\":465,\"height\":327,\"size\":1.4220183486238531}"}
+response time: 2
+response status: 200
+response body: 
+{"data":""}
+*************** response log end ***************
+

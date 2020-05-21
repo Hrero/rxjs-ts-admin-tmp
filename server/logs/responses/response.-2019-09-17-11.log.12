@@ -1,0 +1,26 @@
+[2019-09-17T11:52:18.257] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getCommodityList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"pageSize":5,"pageNum":1,"keyword":"啦啦"}
+response time: 7
+response status: 200
+response body: 
+{"code":1,"data":{"data":[],"total":1},"msg":"success"}
+*************** response log end ***************
+
+[2019-09-17T11:52:18.282] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getEverybodySearching
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 6
+response status: 200
+response body: 
+{"code":1,"data":{"userHistorySearch":[{"times":1,"status":1,"creatTime":1568691404327,"updataTime":1568691404327,"_id":"5d8058728d50e530e10964d0","search":"啦啦","userId":"5d8058348d50e530e10964cf","dep":"5d8058348d50e530e10964cf","__v":0}],"searchArrayList":[{"text":"啦啦","count":1}]},"msg":"success"}
+*************** response log end ***************
+

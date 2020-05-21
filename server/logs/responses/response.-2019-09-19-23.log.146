@@ -1,0 +1,39 @@
+[2019-09-19T23:59:29.853] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/xcx/weChat/thirdLoginIn
+request client ip:  ::ffff:192.168.0.100
+request body: 
+{"openId":"onioU0b7U6Qik1N-MgHeeaS_ijTY"}
+response time: 18
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2019-09-19T23:59:30.257] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.100
+request body: 
+{}
+response time: 0
+response status: 200
+response body: 
+{"code":0,"data":{},"msg":"请先登录"}
+*************** response log end ***************
+
+[2019-09-19T23:59:30.259] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getCommodityList
+request client ip:  ::ffff:192.168.0.100
+request body: 
+{"type":0,"pageSize":5,"pageNum":1}
+response time: 0
+response status: 200
+response body: 
+{"code":0,"data":{},"msg":"请先登录"}
+*************** response log end ***************
+

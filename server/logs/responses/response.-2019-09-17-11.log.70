@@ -1,0 +1,39 @@
+[2019-09-17T11:48:22.183] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getEverybodySearching
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 8
+response status: 200
+response body: 
+{"code":1,"data":{"userHistorySearch":[],"searchArrayList":[]},"msg":"success"}
+*************** response log end ***************
+
+[2019-09-17T11:48:22.186] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getCommodityList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"type":0,"pageSize":5,"pageNum":1}
+response time: 7
+response status: 200
+response body: 
+{"code":1,"data":{"data":[],"total":0},"msg":"success"}
+*************** response log end ***************
+
+[2019-09-17T11:48:22.880] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/xcx/weChat/getUnionId
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"appId":"wx5aaaec189466b376","sessionKey":"/D3Kg9g0wDk7Er76ppIPgA==","encryptedData":"cgihPejinEC0aCQTEtKitmuoD+Aiv7EQh6h5HbisaR+jJaDkpaRMq2nqFxx2D5Bmf/X6hUasj4uOAG/AxpM95nFbPy9/g9T7cMI7/ExavLbJCFY5fY+9Lg0VOpezlsnqgFNYzXEmcj1iiTfOLvexiqaEL86LqCu6yWomanMSQ/wzl1GSeimNkeM9LSBUZVbpeTaJKAthZ+CVaE6sZTvdhBX6Or/1ZC82IfTuKL7/Wj5/r3SRIcxoazUo81lxh1paq8r3J1pw7dHXJx6z2mLD6Cbbho/j9R3dcrJkpL6g7dJFoqlE7eoZbuDI1wJH80DKU+Lzok0melFauAfziFaTpzaAwtIFaSAPDWi2ZBAKNfp30giH+dYuH8kt3f9DzEhXzSBcQoRR0UR7dhoxtIRuCEpFLmtkKjE7XuJDZgyZoNQDjvlS+MYPqaU8D7E2B8WE5aSfg9p7stPFGjqmC/Edaw==","iv":"UBx5PrbG2r8Sww8fayG2gg=="}
+response time: 0
+response status: 200
+response body: 
+{"openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4","nickName":"A sunny","gender":1,"language":"zh_CN","city":"","province":"Ras Al Khaimah","country":"AE","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoy75TtszB6cT9a6T5hY7EpkAGwlqImKTfBIGbTXsv36nqnJxQXAV8RZjzX0tGqxKaVr7NFOsv5JQ/132","watermark":{"timestamp":1568692102,"appid":"wx5aaaec189466b376"}}
+*************** response log end ***************
+

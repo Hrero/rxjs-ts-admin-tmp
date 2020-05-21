@@ -1,0 +1,26 @@
+[2019-09-17T11:47:45.712] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getCollectionList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 3
+response status: 200
+response body: 
+{"code":1,"data":[],"msg":"success"}
+*************** response log end ***************
+
+[2019-09-17T11:47:45.716] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 9
+response status: 200
+response body: 
+{"code":1,"data":{"sex":0,"attentionNum":0,"fansNum":0,"isFans":0,"creatTime":1568691404327,"updataTime":1568691404327,"_id":"5d8056538d50e530e10964ca","openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4","__v":0,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODA1NjUzOGQ1MGU1MzBlMTA5NjRjYSIsImlhdCI6MTU2ODY5MjA2MiwiZXhwIjoxNTY5OTg4MDYyfQ._MBooC2eeJEZfI6XVeD0MNkZbsBFDH8zIz2c2MSx8kU","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoy75TtszB6cT9a6T5hY7EpkAGwlqImKTfBIGbTXsv36nqnJxQXAV8RZjzX0tGqxKaVr7NFOsv5JQ/132","nickName":"A sunny","message":0},"msg":"success"}
+*************** response log end ***************
+

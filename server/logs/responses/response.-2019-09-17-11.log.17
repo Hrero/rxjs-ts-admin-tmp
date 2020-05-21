@@ -1,0 +1,39 @@
+[2019-09-17T11:52:03.472] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/userUpdate
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"signature":"心无旁骛"}
+response time: 2
+response status: 200
+response body: 
+{"code":1,"data":{"n":1,"nModified":1,"ok":1,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODA1ODM0OGQ1MGU1MzBlMTA5NjRjZiIsImlhdCI6MTU2ODY5MjI3NiwiZXhwIjoxNTY5OTg4Mjc2fQ.k6mPmokkDhFsJ2Pb0CXq0sz7mk5K3b5sm4wMcOH2-as"},"msg":"已更新"}
+*************** response log end ***************
+
+[2019-09-17T11:52:05.853] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserCommodityList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 5
+response status: 200
+response body: 
+{"code":1,"data":[],"msg":"success"}
+*************** response log end ***************
+
+[2019-09-17T11:52:05.853] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getCollectionList
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 3
+response status: 200
+response body: 
+{"code":1,"data":[],"msg":"success"}
+*************** response log end ***************
+

@@ -1,0 +1,39 @@
+[2019-09-21T09:08:25.052] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getMessageNum
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 150
+response status: 200
+response body: 
+{"code":1,"data":0,"msg":"success"}
+*************** response log end ***************
+
+[2019-09-21T09:08:25.060] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getMessageNum
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 45
+response status: 200
+response body: 
+{"code":1,"data":0,"msg":"success"}
+*************** response log end ***************
+
+[2019-09-21T09:08:25.061] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getMessageNum
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 47
+response status: 200
+response body: 
+{"code":1,"data":0,"msg":"success"}
+*************** response log end ***************
+

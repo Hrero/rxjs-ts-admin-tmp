@@ -1,0 +1,26 @@
+[2019-09-20T15:49:26.277] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/xcx/weChat/thirdLoginIn
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 4
+response status: 200
+response body: 
+{"code":0,"data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODQ4NDRkYTA3Yjc4ZDM5ZDFjZGI2NCIsImlhdCI6MTU2ODk2NTc2NiwiZXhwIjoxNTcwMjYxNzY2fQ.-udGiwxrjeIbTd4eFRiuIdQyHWx4gAH-YYUGtIr01TU","userId":"5d84844da07b78d39d1cdb64"},"msg":"该用户已存在"}
+*************** response log end ***************
+
+[2019-09-20T15:49:29.038] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 3
+response status: 200
+response body: 
+{"code":1,"data":{"sex":0,"attentionNum":0,"fansNum":0,"isFans":0,"creatTime":1568965545430,"updataTime":1568965545430,"_id":"5d84844da07b78d39d1cdb64","openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4","studentNumber":0,"phoneNumber":0,"nickName":"","__v":0,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkODQ4NDRkYTA3Yjc4ZDM5ZDFjZGI2NCIsImlhdCI6MTU2ODk2NTc2NiwiZXhwIjoxNTcwMjYxNzY2fQ.-udGiwxrjeIbTd4eFRiuIdQyHWx4gAH-YYUGtIr01TU","message":0},"msg":"success"}
+*************** response log end ***************
+

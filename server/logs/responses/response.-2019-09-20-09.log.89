@@ -1,0 +1,39 @@
+[2019-09-20T09:36:46.237] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/xcx/weChat/getWeChatId
+request client ip:  ::ffff:192.168.0.173
+request body: 
+{"appid":"wx5aaaec189466b376","secret":"5f25cab72ad17562a5cd14cdaa18aa47","js_code":"011y0LJh0G9Wdv1JQIJh0O9qJh0y0LJ-","grant_type":"authorization_code"}
+response time: 158
+response status: 200
+response body: 
+{"session_key":"/eb8JdffAkhI14wubz1ozg==","openid":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+*************** response log end ***************
+
+[2019-09-20T09:36:46.239] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.173
+request body: 
+{}
+response time: 4
+response status: 200
+response body: 
+{"data":""}
+*************** response log end ***************
+
+[2019-09-20T09:36:46.279] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/xcx/weChat/thirdLoginIn
+request client ip:  ::ffff:192.168.0.173
+request body: 
+{"openId":"onioU0SKwZ170Yj6Wv8ZCYb122u4"}
+response time: 4
+response status: 200
+response body: 
+{"code":11000,"data":"","msg":"E11000 duplicate key error collection: second_hand_express_transaction.users index: studentNumber_1 dup key: { : 0 }"}
+*************** response log end ***************
+

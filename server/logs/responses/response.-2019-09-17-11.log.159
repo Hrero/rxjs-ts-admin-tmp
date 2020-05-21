@@ -1,0 +1,13 @@
+[2019-09-17T11:39:53.819] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/saveCommodity
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{"imageUrl":"[{\"height\":670,\"width\":940,\"path\":\"https://static2.zugeliang01.com/20190917/cd688c90-d8fc-11e9-8ba8-873c6029de18.png\"}]","productDes":"z'x中心辞职信","school":"黑龙江八一农垦大学","type":10,"firstImgHeight":670,"firstImgWidth":940,"imgMaxHeight":"{\"width\":940,\"height\":670,\"size\":1.4029850746268657}","phoneNumber":18618494521}
+response time: 5
+response status: 200
+response body: 
+{"code":1,"data":{"collect":0,"transmit":0,"like":0,"ourRatings":0,"isCollect":"","isLike":"","firstImgHeight":670,"firstImgWidth":940,"imgMaxHeight":"{\"width\":940,\"height\":670,\"size\":1.4029850746268657}","status":0,"creatTime":1568691404327,"updataTime":1568691404327,"_id":"5d8055898d50e530e10964c7","productDes":"z'x中心辞职信","imageUrl":"[{\"height\":670,\"width\":940,\"path\":\"https://static2.zugeliang01.com/20190917/cd688c90-d8fc-11e9-8ba8-873c6029de18.png\"}]","phoneNumber":18618494521,"school":"黑龙江八一农垦大学","type":10,"userId":"5d80537d4eb5732fae31035a","dep":"5d80537d4eb5732fae31035a","__v":0},"msg":"success"}
+*************** response log end ***************
+

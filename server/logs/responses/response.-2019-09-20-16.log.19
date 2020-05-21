@@ -1,0 +1,39 @@
+[2019-09-20T16:34:39.610] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 9
+response status: 200
+response body: 
+{"data":""}
+*************** response log end ***************
+
+[2019-09-20T16:34:39.635] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 2
+response status: 200
+response body: 
+{"data":""}
+*************** response log end ***************
+
+[2019-09-20T16:34:39.698] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/user/getUserDetail
+request client ip:  ::ffff:192.168.0.178
+request body: 
+{}
+response time: 4
+response status: 200
+response body: 
+{"data":""}
+*************** response log end ***************
+
